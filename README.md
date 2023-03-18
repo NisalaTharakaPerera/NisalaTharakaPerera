@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NisalaTharakaPerera/NisalaTharakaPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nisala-tharaka-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisala-tharaka-perera" height="30" width="40" /></a>
-<a href="https://kaggle.com/nisala perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nisala perera" height="30" width="40" /></a>
+<a href="https://kaggle.com/nisalaperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nisala perera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
