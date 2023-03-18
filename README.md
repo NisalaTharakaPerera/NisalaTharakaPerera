@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nisala Perera</h1>
 <h3 align="center">Datascience enthusiast</h3>
 
-- 🔭 I’m currently working at SLT Digital Lab
+- 🔭 I’m currently doing my data science internship at SLT Digital Lab
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
