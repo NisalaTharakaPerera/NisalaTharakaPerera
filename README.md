@@ -142,15 +142,40 @@ Here are some ideas to get you started:
           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
         </a>
       </td>
-      <td></td>
+      <td>
+        <h3 align="left">Cloud:</h3>
+        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+        </a>
+      </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        <h3 align="left">Databases:</h3>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+        </a>
+      </td>
+      <td>
+        <h3 align="left">Frameworks:</h3>
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+        </a>
+      </td>
+      <td>
+        <h3 align="left">Softwares:</h3>
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+        </a>
+      </td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+        <h3 align="left">Other:</h3>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        </a>
+      </td>
       <td></td>
       <td></td>
     </tr>
