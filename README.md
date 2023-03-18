@@ -59,13 +59,6 @@ Here are some ideas to get you started:
 
 
 <table class="GeneratedTable">
-  <thead>
-    <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>Cell</td>
